@@ -6,3 +6,5 @@ git config --global user.email "kritika015@gmail.com"
 git.add
 git commit -m ""
 git diff <filename>
+
+-----------Git Command-----------------------------------------
