@@ -7,5 +7,7 @@ git.add
 git commit -m ""
 git diff <filename>
 
+-----------Git Command-----------------------------------------
 
 -------checking changes inprivatebranch2-------
+
