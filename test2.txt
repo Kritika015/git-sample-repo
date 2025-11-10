@@ -1,8 +1,0 @@
-git status->prints the status of the git repository
-
-git init->initialzes the git repo
-git config --global user.name "Kritika" ->specify username
-git config --global user.email "kritika015@gmail.com"
-git.add
-git commit -m ""
-git diff <filename>
